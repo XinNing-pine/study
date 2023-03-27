@@ -5,6 +5,7 @@ public class Code1 {
         int[] nums=new int[]{2,7,11,15};
         int target=9;
         twoSum(nums,target);
+		//ce shi
     }
 
     public static int[] twoSum(int[] nums, int target) {
